@@ -1,4 +1,4 @@
-# MRI Viewer
+# MRT Viewer
 
 Лёгкий настольный просмотрщик DICOM-исследований (MRI/CT и др.) на Python и PySide6. Умеет открывать локальные папки с DICOM и загружать исследования из PACS через DCMTK (C-FIND / C-MOVE).
 
