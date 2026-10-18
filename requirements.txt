@@ -1,6 +1,10 @@
-PySide6>=6.5
-pydicom>=2.4
-numpy>=1.24
-pylibjpeg
-pylibjpeg-libjpeg
-pylibjpeg-openjpeg
+numpy
+pydicom
+PySide6
+
+# Инструмент «Объём» (сегментация)
+scipy
+
+# Необязательно: файлы JPEG2000 (раскомментируйте при необходимости)
+# pylibjpeg[all]
+# python-gdcm
